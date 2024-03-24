@@ -102,7 +102,7 @@ btnRoll.addEventListener('click', () => {
 
         // Check for roll 1
         if (dice === 1) {
-            // Switth player , make currect score 0 
+           
             switchPlayer();
         }
         else {
