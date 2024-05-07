@@ -11,7 +11,7 @@ const btnHold = document.querySelector('.btn--hold');
 
 let currentScore0, currentScore1, totalScore0, totalScore1, isPlayer0, win;
 
-reset();
+reset()
 
 function reset() {
     score0El.textContent = 0;
